@@ -26,7 +26,7 @@ $Dev = array("6770175547", "5709152459"); // put id of admins
 $usernamebot = "M_foriii2"; // ایدی ربات بدون @
 $channel = ""; // ایدی کانال بدون @
 $channelcode = "";  // کانالی که کد سکه ها در ان ارسال میشود
-$web = "ash00002007.42web.io/Bots/M_foriii2"; // مسیر سورس را قرار دهید مثال : https://wizzly.ir/bot
+$web = "https://github.com/Ash0002007/M_foriii2/blob/main/bot.php"; // مسیر سورس را قرار دهید مثال : https://wizzly.ir/bot
 $token = API_KEY;
 //-----------------------------------------------------------------------------------------------
 $update = json_decode(file_get_contents('php://input'));
